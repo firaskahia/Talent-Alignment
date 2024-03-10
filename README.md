@@ -18,7 +18,7 @@ Actionable Guidance: Job seekers will receive practical advice and guidance to e
 #### Clone the Repository :
  Clone this repository to your local machine using git clone 
 ```sh
-git clone https://github.com/firaskahia/unlocking-talent-alignment.git.
+git clone https://github.com/firaskahia/Talent-Alignment.git
 ```
 #### Dependencies :
 Make sure you have all dependencies installed by running
